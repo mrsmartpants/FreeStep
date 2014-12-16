@@ -1,7 +1,8 @@
 var express = require('express'),
    https = require("https"),
    fs = require('fs');
-   
+//Require all the modules
+//Express, Https and Fs - File System
 /***
  *
  * This is for HTTP redirecting to HTTPS - if you're running this as HTTP, delete below until the closing comment block
